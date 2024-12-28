@@ -11,7 +11,7 @@ export default function Home() {
   return (
       <main className="min-h-screen bg-black/[0.99] antialiased bg-grid-white/[0.04] ">
       <HeroSection/>
-      <TeacherSection/>
+      {/* <TeacherSection/> */}
       <FeaturedCourses/>
       <WhyChooseUs/>
       <SchoolTestimonials/>
