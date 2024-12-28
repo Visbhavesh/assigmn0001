@@ -12,7 +12,7 @@ export default function Home() {
       <main className="min-h-screen bg-black/[0.99] antialiased bg-grid-white/[0.04] ">
       <HeroSection/>
       {/* <TeacherSection/> */}
-      <FeaturedCourses/>
+{/*       <FeaturedCourses/> */}
       <WhyChooseUs/>
       <SchoolTestimonials/>
       <UpcomingWebinar/>
